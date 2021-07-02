@@ -16,3 +16,10 @@
     align-items: center;
 
 }
+.img-modal{
+    margin: 1% 15%;
+}
+.info-modal{
+    color: var(--gris2);
+    text-align: center;
+}
